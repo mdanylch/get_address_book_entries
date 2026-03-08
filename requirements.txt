@@ -1,0 +1,2 @@
+# HTTP client for WxCC API calls
+requests>=2.31.0,<3
